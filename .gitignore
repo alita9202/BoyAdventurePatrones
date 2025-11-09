@@ -1,0 +1,25 @@
+# Unreal Engine standard ignores
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+*.obj
+*.pdb
+*.ipch
+Build/Android/
+Build/IOS/
+Build/HTML5/
+Build/Linux/
+Build/Mac/
+Build/Win64/
+Build/Win32/
+*.vscode/
