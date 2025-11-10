@@ -22,4 +22,6 @@ Build/Linux/
 Build/Mac/
 Build/Win64/
 Build/Win32/
+Content/StarterContent/HDRI/
+
 *.vscode/
